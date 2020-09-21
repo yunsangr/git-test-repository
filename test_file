@@ -11,7 +11,7 @@ line3
 there
 
 message from master branch.
-message edited from branch A.
-
-
+message merged from branch A.
 hello gits this is branch A.
+message edited from branch A child.
+message created from branch A child.
